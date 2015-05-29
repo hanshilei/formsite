@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracksanges of files.
 test content
 hanshilei test content.
+Creating a new branch is quick.
